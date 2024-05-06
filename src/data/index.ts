@@ -1,3 +1,3 @@
-// import { bikeApi } from './bikes'
+import { bikeApi } from './bikes'
 
-// export { bikeApi };
+export { bikeApi };
